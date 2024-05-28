@@ -1,1 +1,2 @@
-# To-do-List
+Welcome to the documentation for the Todo List , a simple and refactored project designed to manage our tasks efficiently. This document provides an overview of the project, its code structure, refactoring details, clean code practices, design patterns, deployment information, and usage instructions.
+In this we can add tasks that we want to do, and also it provides flexibility to delete after completion of our tasks.
